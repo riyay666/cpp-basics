@@ -22,7 +22,7 @@ The goal of this repository is to build **strong C++ fundamentals** that will la
 
 ---
 
-## 🧠 Purpose of This Repository
+## Purpose of This Repository
 
 - Strengthen core C++ concepts
 - Practice problem-solving logic
@@ -34,11 +34,11 @@ The goal of this repository is to build **strong C++ fundamentals** that will la
 
 ---
 
-## 🛠️ Tools & Language Used
+## Tools & Language Used
 
 - **Language:** C++
-- **Compiler:** GCC / MinGW
-- **IDE:** VS Code / Dev C++
+- **Compiler:** GCC 
+- **IDE:** VS Code 
 
 ---
 
