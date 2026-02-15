@@ -1,57 +1,25 @@
-# cpp-basics
-This repository contains my complete learning journey of **C++ programming from scratch**.  
-It includes fundamental concepts, syntax practice, and basic problem-solving programs written during my B.Tech CSE coursework and self-study.
+# Week 1 – C++ Basics
+In this repo I have completed basic concepts of c++ and solved all types of problems related to the 
+given topics.
 
-The goal of this repository is to build **strong C++ fundamentals** that will later support **DSA, competitive programming, and core software development**.
+Topics Covered:
+- Variables & Data Types
+- Loops
+- Conditionals
+- Basic Number Logic
+- Pattern Printing
 
----
+Total Problems Solved: 65
 
-## What This Repository Covers
+Key Learnings:
+- Control Over Logic Flow (If–Else + Loops)
+- Pattern Thinking (Nested Loops control)
+- Number Manipulation Skills
+- Problem Breakdown Ability
+- Learned clean condition structuring
+- Developed ability to break problems into steps
 
-- Basic input/output
-- Variables and data types
-- Operators
-- Conditional statements (`if`, `else`, `switch`)
-- Loops (`for`, `while`, `do-while`)
-- Functions
-- Arrays
-- Strings
-- Pointers (basics)
-- Simple pattern programs
-- Mathematical and logical problems
+Platforms Used:
+- LeetCode
+- HackerEarth
 
----
-
-## Purpose of This Repository
-
-- Strengthen core C++ concepts
-- Practice problem-solving logic
-- Maintain a structured learning record
-- Build a strong foundation for:
-  - Data Structures & Algorithms
-  - Competitive Programming
-  - Internships and technical interviews
-
----
-
-## Tools & Language Used
-
-- **Language:** C++
-- **Compiler:** GCC 
-- **IDE:** VS Code 
-
----
-
-## Repository Structure
-
-C++-Basics/
-│
-├── Input-Output/
-├── Operators/
-├── Conditional-Statements/
-├── Loops/
-├── Functions/
-├── Arrays/
-├── Strings/
-├── Pointers/
-└── Practice-Problems/
